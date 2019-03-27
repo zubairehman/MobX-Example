@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mobx_example_app/counter_example/model/counter.dart';
+import 'package:mobx_example_app/counter_example/model/counter_using_gen.dart';
 import 'package:mobx_example_app/counter_example/ui/class2.dart';
 import 'package:provider/provider.dart';
 
